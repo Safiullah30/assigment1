@@ -1,5 +1,5 @@
 print("Server Report")
 print("Server: Running")
 print("Backup: OK")
-print("Backup: OK")
 print("Disk Usage: 45% used")
+print("Memory Usage: 2.4GB / 8GB")
